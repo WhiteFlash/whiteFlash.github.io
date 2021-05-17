@@ -13,5 +13,6 @@
    </div>
    <a href="/task1.xml">Задание 1</a>
    <a href="/task2.xml">Задание 2</a>
+   <a href="/task2.xml">Задание 3</a>
 </body>
 </html>
